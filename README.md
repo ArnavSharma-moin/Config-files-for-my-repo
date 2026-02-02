@@ -1,4 +1,4 @@
-Hi 👋, I'm Arnav Sharma
+Hello 👋, I'm Arnav Sharma
 A Curious Full Stack Developer/Lead Developer
 
 
